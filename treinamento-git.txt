@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Treinamento Git 
 =======
 Treinamento Git
 >>>>>>> origin
+=======
+Treinamentos Git by Cecilia
+>>>>>>> fd72c3b5e8c70d43294b29bf8dc1b05470c5154e
