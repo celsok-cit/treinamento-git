@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Treinamento Git
+=======
+Treinamentos Git by Cecilia
+>>>>>>> 531a708e36cc6d84a5ce574bff67f5abc1267383
